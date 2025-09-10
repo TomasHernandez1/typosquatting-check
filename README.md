@@ -11,7 +11,9 @@ typosquatting-check analyzes domains using dnstwist, checks if they are active, 
 1. Prepare an Excel file (.xlsx) with a column named 'domain', for example:
 
 example.com
+
 test.com
+
 domain.org
 
 2. Run the script and pass the file as an argument:
