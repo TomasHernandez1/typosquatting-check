@@ -20,7 +20,7 @@ python3 typos.py <domains.xlsx>
 ```
 
 # Output example
-```bash
+```console
 $ python script.py -i domains.xlsx
 Processing dnstwist for domain: example.com...
 dnstwist processing completed
